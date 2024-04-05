@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Nathan, and this is my projects page!
+- I'm currently a student at Texas State University
+- Reach me at carlsonn415@gmail.com
