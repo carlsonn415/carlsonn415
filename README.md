@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **carlsonn415@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: https://www.linkedin.com/in/carlsonn415</h3>
 <p align="left">
 </p>
 
