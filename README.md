@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nathan</h1>
 <h3 align="center">A passionate software developer from Texas</h3>
 
-- 🔭 I’m currently working on [Concert Finder](https://github.com/carlsonn415/ConcertFinder)
+- 🔭 I’m currently working on [LineUp](https://github.com/carlsonn415/LineUp)
 
 - 🌱 I’m currently learning **Obj. oriented programming @TXST, Technical interview skills @Codepath**
 
