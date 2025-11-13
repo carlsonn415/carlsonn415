@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Nathan</h1>
 <h3 align="center">A passionate software developer from Texas</h3>
 
-- 🔭 I’m currently working on [LineUp-api](https://github.com/carlsonn415/LineUp-api)
+- 🔭 I’m currently working on [Startup-Gauge](https://github.com/carlsonn415/Startup-Gauge)
 
-- 🌱 I’m currently learning **Obj. oriented programming @TXST, Technical interview skills @Codepath**
+- 🌱 I’m currently learning **Obj. oriented programming @TXST**
 
 - 👨‍💻 All of my projects are available at [https://github.com/carlsonn415](https://github.com/carlsonn415)
 
-- 💬 Ask me about **Kotlin, Java, Spring Boot, Jetpack Compose**
+- 💬 Ask me about **Kotlin, Typescript, NextJS, Jetpack Compose**
 
 - 📫 How to reach me **carlsonn415@gmail.com**
 
